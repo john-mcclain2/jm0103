@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Annotator" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES">
+      <scope name="Project Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="CheckedExceptionClass" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES" />
+    <inspection_tool class="ClassWithoutConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ClassWithoutNoArgConstructor" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_ignoreClassesWithNoConstructors" value="true" />
+    </inspection_tool>
+    <inspection_tool class="NonSerializableFieldInSerializableClass" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignorableAnnotations">
+        <value />
+      </option>
+      <option name="ignoreAnonymousInnerClasses" value="false" />
+      <option name="superClassString" value="java.awt.Component" />
+    </inspection_tool>
+    <inspection_tool class="NonSerializableObjectPassedToObjectStream" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ThrowsRuntimeException" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UncheckedExceptionClass" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES" />
+  </profile>
+</component>
